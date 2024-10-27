@@ -1,0 +1,15 @@
+.navbar_options {
+    @apply flex gap-10 text-gray-500  items-center;
+}
+
+.options:hover {
+    @apply text-gray-300;
+}
+
+.button_option {
+    @apply bg-gray-300 text-black w-36 h-9 rounded-full;
+}
+
+.button_option:hover {
+    @apply bg-gray-400;
+}

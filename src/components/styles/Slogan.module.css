@@ -1,0 +1,9 @@
+.slogan {
+  @apply md:text-6xl font-bold text-gray-800 tracking-wider;
+  font-family: Space Grotesk, sans-serif !important;
+
+}
+
+.grid_btns {
+  @apply grid grid-cols-2 gap-2 w-full;
+}
