@@ -138,7 +138,7 @@ const FinChatComparisonChart: React.FC = () => {
     <div className="flex flex-col items-center my-24">
       <h2 className="text-6xl font-bold mb-2">FinChat v. LLMs</h2>
       <p className="w-2/3 text-center mb-4">
-        FinanceBench is the industry standard for evaluating LLM's on financial
+        FinanceBench is the industry standard for evaluating LLM{'\''}s on financial
         questions.
       </p>
       {icons.length > 0 && <Bar ref={chartRef} data={data} options={options} />}

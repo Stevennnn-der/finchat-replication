@@ -67,9 +67,10 @@ export default function LogoScrollSection() {
   return (
     <div className={styles.logos}>
       <div className={styles.logos_slide}>
-        {logos.map((logo) => (
+        {logos.map((logo, key) => (
           <Image
             src={logo.src}
+            key={logo.src}
             alt={" "}
             width={90}
             height={60}
@@ -78,9 +79,10 @@ export default function LogoScrollSection() {
         ))}
       </div>
       <div className={styles.logos_slide}>
-        {logos.map((logo) => (
+        {logos.map((logo, key) => (
           <Image
             src={logo.src}
+            key={key}
             alt={" "}
             width={90}
             height={60}
