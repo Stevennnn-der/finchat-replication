@@ -39,7 +39,7 @@ const FinChatComparisonChart: React.FC = () => {
   useEffect(() => {
     // Load icons on the client side
     const finChatIcon = new Image();
-    finChatIcon.src = "/assets/finchat.jpeg"; // Use the correct path
+    finChatIcon.src = "/assets/finchat.png"; // Use the correct path
 
     const claude2Icon = new Image();
     claude2Icon.src = "/assets/Claude.png"; // Use the correct path

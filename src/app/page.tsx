@@ -7,6 +7,11 @@ import DataComponent from "../components/DataComponent";
 import AIComponent from "../components/AiAssistant";
 import FundenmentalResearchComponent from "../components/FundamentalResearch"
 import FinChatComparisonChart from "../components/FinChartComparison";
+import AnimatedInfoWindow from "../components/AnimatedInfoWindow";
+import CustomizableTerminal from "../components/CustomizableTerminal";
+import WorkFasterSection from "../components/WorkFaster";
+import InvestorSection from "../components/InvestorSection";
+import TrustedSection from "../components/TrustedSection";
 
 export default function Home() {
   return (
@@ -24,8 +29,13 @@ export default function Home() {
       <DataComponent />
       <FundenmentalResearchComponent />
       <AIComponent />
-      
+      <AnimatedInfoWindow />
+      <CustomizableTerminal />
+      <WorkFasterSection />
       <FinChatComparisonChart />
+      <TrustedSection />
+      <InvestorSection />
+      
     </div>
   );
 }

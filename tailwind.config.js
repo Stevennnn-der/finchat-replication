@@ -30,6 +30,22 @@ module.exports = {
       transitionDuration: {
         '3000': '3000ms', // Custom duration for 3 seconds
       },
+      width: {
+        '15.5rem': '15.5rem',
+        '29rem': '29rem', 
+        '32rem': '32rem', 
+        '40rem': '40rem', 
+      },
+      height: {
+        '32rem': '32rem', 
+        '40rem': '40rem', 
+      },
+      transitionProperty: {
+        'custom-o': 'opacity',
+      },
+      transitionTimingFunction: {
+        'custom-ease': 'cubic-bezier(0.4, 0, 0.2, 1)',
+      },
     },
   },
   plugins: [],
