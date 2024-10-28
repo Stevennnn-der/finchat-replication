@@ -12,6 +12,10 @@ import CustomizableTerminal from "../components/CustomizableTerminal";
 import WorkFasterSection from "../components/WorkFaster";
 import InvestorSection from "../components/InvestorSection";
 import TrustedSection from "../components/TrustedSection";
+import SlidingFooter from "../components/SlidingFooter";
+import CallToAction from "../components/CallToAction";
+import Footer from "../components/Footer";
+import CallToActionWithScroll from "../components/CallToActionWithScroll";
 
 export default function Home() {
   return (
@@ -35,7 +39,7 @@ export default function Home() {
       <FinChatComparisonChart />
       <TrustedSection />
       <InvestorSection />
-      
+      <CallToActionWithScroll/>
     </div>
   );
 }

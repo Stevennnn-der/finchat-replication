@@ -39,6 +39,7 @@ module.exports = {
       height: {
         '32rem': '32rem', 
         '40rem': '40rem', 
+        '44rem': '44rem', 
       },
       transitionProperty: {
         'custom-o': 'opacity',
