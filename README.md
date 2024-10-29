@@ -1,6 +1,8 @@
 <h1>🚀 FinChat - Replication</h1>
 
 <p>Welcome! This is my attempt at recreating the sleek FinChat website, powered by Next.js and styled with Tailwind CSS. It’s a blend of snappy animations, responsive design, and some fun with TypeScript.</p>
+<h3>Link to the Webpage: </h3> <p>https://finchat-replication-git-main-steven-zhus-projects-4795acc8.vercel.app/ </p>
+
 <img width="1178" alt="image" src="https://github.com/user-attachments/assets/a6d8aed5-79b2-453e-b9f8-2f5074e6007c">
 
 
