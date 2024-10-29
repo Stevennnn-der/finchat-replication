@@ -104,4 +104,4 @@ const nextConfig = {
 <p>This project is open-sourced under the MIT License. Feel free to use, modify, and share!</p>
 
 <h2>📬 Contact</h2>
-<p>Questions, suggestions, or just want to connect? Reach me at <a href="mailto:h26zhu@uwaterloo.ca">h26zhu@uwaterloo.ca</a>.</p>
+<p>Reach me at <a href="mailto:h26zhu@uwaterloo.ca">h26zhu@uwaterloo.ca</a>.</p>
